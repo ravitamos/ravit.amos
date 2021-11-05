@@ -1,0 +1,28 @@
+* {
+    color: pink;
+    background-color: papayawhip;
+    font-family: Arial;
+    font-size: 25px;
+}
+
+h1{
+    color:darkslateblue;
+    font-size: 40px;
+}
+
+.heading{
+    color:darkslateblue;
+    text-align: center;
+
+}
+
+#heading2{
+    color:navajowhite;
+}
+
+.label1{
+    color:black;
+    font-family: Arial;
+    font-size: 20px;
+    font-weight:900;
+}
