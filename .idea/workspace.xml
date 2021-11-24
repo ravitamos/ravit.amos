@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4db1a31f-eafc-408f-83cc-e6d63478e2f2" name="Changes" comment="exercise 4">
-      <change afterPath="$PROJECT_DIR$/CVgrid.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RWCrecap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RWDrecap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation1.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animation11.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animationn1.html" afterDir="false" />
+    <list default="true" id="4db1a31f-eafc-408f-83cc-e6d63478e2f2" name="Changes" comment="exercise 5">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVgrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/CVgrid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CVgrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/CVgrid.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cssexample.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssexample.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +64,7 @@
       <workItem from="1636396500667" duration="639000" />
       <workItem from="1636807587722" duration="1359000" />
       <workItem from="1637151050090" duration="10608000" />
-      <workItem from="1637741586937" duration="995000" />
+      <workItem from="1637741586937" duration="1333000" />
     </task>
     <task id="LOCAL‎00001" summary="YOUR COMMIT MESSAGE HERE”">
       <created>1635631026362</created>
@@ -95,7 +84,13 @@
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1636808233011</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL‎00004" summary="exercise 5">
+      <created>1637755684337</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1637755684337</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,6 +112,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="YOUR COMMIT MESSAGE HERE”" />
     <MESSAGE value="exercise 4" />
-    <option name="LAST_COMMIT_MESSAGE" value="exercise 4" />
+    <MESSAGE value="exercise 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 5" />
   </component>
 </project>
