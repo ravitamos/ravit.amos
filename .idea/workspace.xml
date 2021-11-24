@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4db1a31f-eafc-408f-83cc-e6d63478e2f2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    <list default="true" id="4db1a31f-eafc-408f-83cc-e6d63478e2f2" name="Changes" comment="exercise 4">
+      <change afterPath="$PROJECT_DIR$/CVgrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RWCrecap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RWDrecap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animation11.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animationn1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVgrid.css" beforeDir="false" afterPath="$PROJECT_DIR$/CVgrid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CVgrid.html" beforeDir="false" afterPath="$PROJECT_DIR$/CVgrid.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cssexample.css" beforeDir="false" afterPath="$PROJECT_DIR$/cssexample.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/form.html" beforeDir="false" afterPath="$PROJECT_DIR$/form.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +27,20 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="20EyJf6UBKleR6w3eFpFKtoj5q8" />
   <component name="ProjectViewState">
@@ -28,10 +48,12 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CVgrid.html" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -45,11 +67,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1635623973912</updated>
-      <workItem from="1635623976277" duration="5429000" />
+      <workItem from="1635623976277" duration="5612000" />
+      <workItem from="1635775801180" duration="65000" />
+      <workItem from="1635941638960" duration="11191000" />
+      <workItem from="1636136949863" duration="84000" />
+      <workItem from="1636218603224" duration="212000" />
+      <workItem from="1636396500667" duration="639000" />
+      <workItem from="1636807587722" duration="1359000" />
+      <workItem from="1637151050090" duration="10608000" />
+      <workItem from="1637741586937" duration="995000" />
     </task>
+    <task id="LOCAL‎00001" summary="YOUR COMMIT MESSAGE HERE”">
+      <created>1635631026362</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1635631026362</updated>
+    </task>
+    <task id="LOCAL‎00002" summary="YOUR COMMIT MESSAGE HERE”">
+      <created>1636137000920</created>
+      <option name="number" value="LOCAL‎00002" />
+      <option name="presentableId" value="LOCAL‎00002" />
+      <updated>1636137000920</updated>
+    </task>
+    <task id="LOCAL‎00003" summary="exercise 4">
+      <created>1636808233011</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1636808233011</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="YOUR COMMIT MESSAGE HERE”" />
+    <MESSAGE value="exercise 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="exercise 4" />
   </component>
 </project>
